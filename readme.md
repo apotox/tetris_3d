@@ -1,5 +1,9 @@
 Build a 3D Tetris game with HTML, Three.js, and React.
 
+**▶️ Live demo: [apotox.github.io/tetris_3d](https://apotox.github.io/tetris_3d/)**
+
+[![Tetris 3D screenshot](demo/screenshot.png)](https://apotox.github.io/tetris_3d/)
+
 The playing field is a three-dimensional 12×12×24 grid.
 
 The game's objects are made up of cubes, and the player can move and rotate the pieces in three dimensions.
