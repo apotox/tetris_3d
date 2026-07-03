@@ -2,8 +2,8 @@
   "name": "Tetris 3D",
   "short_name": "Tetris 3D",
   "description": "A mobile-friendly 3D Tetris built with React and Three.js.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": ".",
+  "scope": ".",
   "display": "fullscreen",
   "display_override": ["fullscreen", "standalone"],
   "orientation": "portrait",
@@ -11,7 +11,7 @@
   "theme_color": "#05050a",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
